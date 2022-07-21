@@ -9,3 +9,6 @@ Animais para Adoção
 
 ### Para rodar o projeto:
 `npm run start-dev`
+
+## Scheenshot
+<img src="/public/images/screen.gif" alt="">
