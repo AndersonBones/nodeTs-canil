@@ -13,7 +13,6 @@ app.set('views', path.join(__dirname, 'views'));
 app.engine('mustache', mustache());
 
 app.use(express.static(path.join(__dirname, '../public')));
-
 app.use(mainRoutes);
 
 app.use((req, res)=>{
