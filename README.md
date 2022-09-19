@@ -2,7 +2,7 @@
 Animais para Adoção
 
 ### Pré-requisitos globais:
-`npm install nodemon typescript ts-node` 
+`npm install -g nodemon typescript ts-node` 
 
 ### Instalação:
 `npm install `
