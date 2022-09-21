@@ -14,4 +14,4 @@ Animais para Adoção
 <img src="/public/images/screen.gif" alt="">
 
 
-<a href="https://safe-coast-06270.herokuapp.com/">Live Demo</a>
+<a href="https://web-canil.herokuapp.com/">Live Demo</a>
