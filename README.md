@@ -12,6 +12,3 @@ Animais para Adoção
 
 ## Scheenshot
 <img src="/public/images/screen.gif" alt="">
-
-
-<a href="https://web-canil.herokuapp.com/">Live Demo</a>
